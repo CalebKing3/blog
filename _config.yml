@@ -12,8 +12,8 @@ safe: true
 
 # edit here to achieve your personal greatness
 #url: http://calebking3.gitlab.io/blog
-url: http://kingcaleb.com/blog
-baseurl: /blog/
+url: http://kingcaleb.com/
+baseurl: /
 title: Caleb King | Portfolio
 author: Caleb King
 description: Personal blog and resume
