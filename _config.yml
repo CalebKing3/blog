@@ -1,0 +1,31 @@
+# top level stuff you probably don't need to touch
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://calebking3.gitlab.io/blog
+baseurl: /blog/
+title: Caleb King | Portfolio
+author: Caleb King
+description: Personal blog and resume
+avatar: profile.png
+email: calebking3@gmail.com
+github: calebking3 # username
+twitter: kingcaleb3
+#linkedin: username
+stackoverflow: users/3684996/calebking3   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus 
+disqus: calebking3
+#google_analytics: UA-69391421-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
