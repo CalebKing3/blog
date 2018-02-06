@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://calebking3.gitlab.io/blog/</loc>
-    <lastmod>2017-01-14T19:31:08-07:00</lastmod>
+    <loc>http://kingcaleb.com/</loc>
+    <lastmod>2018-02-05T22:15:21-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   
     <url>
-      <loc>http://calebking3.gitlab.io/blog/post8.html</loc>
+      <loc>http://kingcaleb.com/post8.html</loc>
       
         <lastmod>2016-12-24T00:00:00-07:00</lastmod>
       
@@ -22,22 +22,9 @@
   
   
   <url>
-    <loc>http://calebking3.gitlab.io/blog/404</loc>
+    <loc>http://kingcaleb.com/404</loc>
     
-      <lastmod>2017-01-14T19:31:08-07:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://calebking3.gitlab.io/blog/atom.xml</loc>
-    
-      <lastmod>2017-01-14T19:31:08-07:00</lastmod>
+      <lastmod>2018-02-05T22:15:21-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -48,22 +35,9 @@
   </url>
   
   <url>
-    <loc>http://calebking3.gitlab.io/blog/blog</loc>
+    <loc>http://kingcaleb.com/atom.xml</loc>
     
-      <lastmod>2017-01-14T19:31:08-07:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://calebking3.gitlab.io/blog/</loc>
-    
-      <lastmod>2017-01-14T19:31:08-07:00</lastmod>
+      <lastmod>2018-02-05T22:15:21-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -74,9 +48,9 @@
   </url>
   
   <url>
-    <loc>http://calebking3.gitlab.io/blog/projects</loc>
+    <loc>http://kingcaleb.com/blog</loc>
     
-      <lastmod>2017-01-14T19:31:08-07:00</lastmod>
+      <lastmod>2018-02-05T22:15:21-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -87,9 +61,35 @@
   </url>
   
   <url>
-    <loc>http://calebking3.gitlab.io/blog/sitemap.xml</loc>
+    <loc>http://kingcaleb.com/</loc>
     
-      <lastmod>2017-01-14T19:31:08-07:00</lastmod>
+      <lastmod>2018-02-05T22:15:21-07:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://kingcaleb.com/projects</loc>
+    
+      <lastmod>2018-02-05T22:15:21-07:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://kingcaleb.com/sitemap.xml</loc>
+    
+      <lastmod>2018-02-05T22:15:21-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>

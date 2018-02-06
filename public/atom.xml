@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   
-    <title type="text" xml:lang="en">Devboxx - Caleb's Blog</title>
-    <link type="application/atom+xml" rel="self" href="http://calebking3.gitlab.io/blog/atom.xml"/>
+    <title type="text" xml:lang="en">Caleb King | Portfolio</title>
+    <link type="application/atom+xml" rel="self" href="http://kingcaleb.com/atom.xml"/>
   
-  <link href="http://calebking3.gitlab.io/blog/"/>
-  <id>http://calebking3.gitlab.io/blog/</id>
-  <!--<updated>2017-01-14T19:31:08Z</updated>-->
+  <link href="http://kingcaleb.com/"/>
+  <id>http://kingcaleb.com/</id>
+  <!--<updated>2018-02-05T22:15:21Z</updated>-->
   <author>
     <name>Caleb King</name>
     <email>calebking3@gmail.com</email>
   </author>
-  <rights type="text">Copyright © 2017 Caleb King. All rights reserved.</rights>
+  <rights type="text">Copyright © 2018 Caleb King. All rights reserved.</rights>
   
   <entry>
   <title type="text">How to start a blog</title>
-  <link rel="alternate" type="text/html" href="http://calebking3.gitlab.io/blog/post8.html" />
-  <id>http://calebking3.gitlab.io/blog/post8</id>
+  <link rel="alternate" type="text/html" href="http://kingcaleb.com/post8.html" />
+  <id>http://kingcaleb.com/post8</id>
   <published>2016-12-24T00:00:00Z</published>
   <updated>2016-12-24T00:00:00Z</updated>
   <content type="html"><![CDATA[ <h2 id="heading2">Why is so hard to start a blog?</h2>
-
-
-
 
 <p>This is my first blog and anyone who knows me have heard me talk about creating a blog for a very long time. However, I was unable to start my blog
 I was't sure what was stopping me. I would wake up and drive to work and think to myself different topics I wanted to go over. My communte is only 20 minutes but I would have full conversations with my self
@@ -30,12 +27,7 @@ over that time. I wanted my first post to be about picking a programming languag
 You see all these great things but never actually started. Now it is 2017 and I'm not a fan of the "New Year New Me" talk but I did need to make a change.
 </p>
 
-
-
-
 <h3 id="heading3">Where to start?</h3>
-
-
 <p>
 At first I wanted to make a YouTube channel
 but then thought that market is over saturated, I would need to learn how to film, edit movies, get equipment, setup a channel, market my blog, etc.
@@ -46,12 +38,7 @@ pen and pad and wrote down the date, title of the blog and 5 items I wanted to g
   a few guidelines on how you want it(pictures, gifs, bullet points, any format you like). Even draw images if you think it will help. Most people don't read the entire blog anyways.
 </p>
 
-
-
-
-<h3 id="heading3">What took me so long? The setup></h3>
-
-
+<h3 id="heading3">What took me so long? The setup&gt;</h3>
 <p>After I started writing on ideas down my next challenge was setting up a platform. 
 This is where it can become challenging if you haven't created a blog before. This is challenging because
 you are flooded with different options, you can go with a content management system like Wordpress, Drupal, Wix, SquareSpace, etc.
@@ -60,26 +47,17 @@ willing to learn the new language, build the blog, edit the style and bam! A wor
 purchase a domain and get it on the web. Do you buy from GoDaddy, Google Domains, Namecheap?! Ahh more choices. I didn't like this choice because it cost. 
 </p>
 
-
-
-
 <p>
 I would recommend a static stite generator. If you are not familar with what those are...checkout this video. I'll try to sum it up, a SSG 
 is another option that is FREE. You can use github or gitlab(my preference) when hosting your blog. Really all you need a domain name which isn't necessary but a nice to have. 
  Click here if you want to learn how to make a blog with a SSG. 
 </p>
 
-
-
-
 <h3 id="heading3">Staying Consistent and having fun!</h3>
-
-
 <p>Remeber the benefit of the blog is to get your thoughts and opinons out there because its 2017 and employers are no longer impressed
 with your perfectly formatted resume. They want to see your projects, how you think, what technologies interest you. You can also use your blog to simiplier
 share some solutions you have found with some problems stackoverflow or google can't seem to anwser. Check out this course if you want to setup your own blog. Good Luck! 
 </p>
-
  ]]></content>
 </entry>
 
